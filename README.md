@@ -1,11 +1,11 @@
 # Jirooo
 Recipe of pseudo Ramen Jiro.
 
-## One
+## One: How To Make Noodle
 Make noodle from Flour.
 
-## Two
+## Two: How To Make Soup
 Make soup from pig bones.
 
-## Three
+## Three: How To Eat Jiro
 Eat Jiroo as soon as possible.
